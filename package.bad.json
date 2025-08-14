@@ -1,0 +1,19 @@
+{
+  "name": "my-kahoot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+	"dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^12.1.0"
+  },
+  "description": "",
+  "devDependencies": {
+    "vite": "^7.1.2"
+  }
+}
